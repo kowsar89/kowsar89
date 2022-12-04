@@ -9,7 +9,7 @@ Hi, I'm [Kowsar!](https://kowsarhossain.com), a self-taught Full Stack Web Devel
 
 <br>
 
-### Work Experience
+### ⚙️ Work Experience
 
 **SovWare, Bangladesh** — Senior Web Engineer <br>
 `Apr’20 - Present (full time)`
