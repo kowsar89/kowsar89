@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-
 [![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=Email&logo=gmail)](mailto:kowsar9989@gmail.com)
 [![LinkedIn URL](https://img.shields.io/badge/social--badge?style=social&label=LinkedIn&logo=linkedin)](https://www.linkedin.com/in/kowsar89/)
 [![WordPress URL](https://img.shields.io/badge/social--badge?style=social&label=WordPress&logo=wordpress)](https://profiles.wordpress.org/kowsar89/#content-plugins)
+<br>
+
+Hi, I'm [Kowsar!](https://kowsarhossain.com), a self-taught Full Stack Web Developer from Bangladesh. Making the web better since 2013.
 
 <br>
 
-### WORK EXPERIENCE
+### Work Experience
 
 **SovWare, Bangladesh** — Senior Web Engineer <br>
 `Apr’20 - Present (full time)`
@@ -26,7 +28,7 @@
 
 <br>
 
-### Technical Skills
+### 🛠 Technical Skills
 <table>
     <tr>
         <td>Primary stack</td>
@@ -47,7 +49,6 @@
 </table>
 <br>
 
-📈 **My GitHub Stats:**
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kowsar89&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</p>
+
+### 📊 GitHub Stats
+[![Kowsar's github stats](https://github-readme-stats.vercel.app/api?username=kowsar89&count_private=true&include_all_commits=true&show_icons=true&theme=react&show_owner=true)](https://github.com/kowsar89)
