@@ -47,8 +47,6 @@ Hi, I'm [Kowsar!](https://kowsarhossain.com), a self-taught Full Stack Web Devel
         <td>DevOps, Ubuntu Server</td>
     </tr>
 </table>
-<br>
-
 
 ### 📊 GitHub Stats
 [![Kowsar's github stats](https://github-readme-stats.vercel.app/api?username=kowsar89&count_private=true&include_all_commits=true&show_icons=true&theme=react&show_owner=true)](https://github.com/kowsar89)
