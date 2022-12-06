@@ -44,7 +44,7 @@ Hi, I'm [Kowsar!](https://kowsarhossain.com), a self-taught Full Stack Web Devel
     </tr>
     <tr>
         <td>Others</td>
-        <td>DevOps, Ubuntu Server</td>
+        <td>REST API, DevOps, Ubuntu Server</td>
     </tr>
 </table>
 
