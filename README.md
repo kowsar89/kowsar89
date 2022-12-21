@@ -20,7 +20,7 @@ Hi, I'm [Kowsar!](https://kowsarhossain.com), a self-taught Full Stack Web Devel
 <br>
 
  **Korea MTS Ltd, Bangladesh** — WordPress Developer <br>
-`Mar’16 - Aug’20 (full time)`
+`Mar’16 - Aug’16 (full time)`
 <br>
 
  **79mplus, Australia** — WordPress Plugin Developer <br>
