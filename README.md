@@ -11,8 +11,12 @@ Hi, I'm [Kowsar!](https://kowsarhossain.com), a self-taught Full Stack Web Devel
 
 ### ⚙️ Work Experience
 
+**UpdraftPlus** — WordPress Plugin Developer <br>
+`Jan’23 - Present (remote)`
+<br>
+
 **SovWare, Bangladesh** — Senior Web Engineer <br>
-`Apr’20 - Present (full time)`
+`Apr’20 - Dec’22 (full time)`
 <br>
 
 **RadiusTheme, Bangladesh** — Lead WordPress Theme Developer <br>
