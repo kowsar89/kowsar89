@@ -14,7 +14,7 @@ Hi, I'm [Kowsar!](https://kowsarhossain.com), a self-taught Full Stack Web Devel
 **UpdraftPlus** — WordPress Plugin Developer <br>
 `Jan’23 - Present (remote)`
 <br>
-Currently, my primary responsibility is to review merge/pull requests of the WP-Optimize plugin development, ensuring that the new code changes align with our quality standards and best practices. Additionally, I actively contribute to various aspects of the WP-Optimize plugin, including development, research, planning, and overall project strategy.
+Currently, my primary responsibility is to review merge/pull requests within the WP-Optimize plugin repository, ensuring that the new code changes align with our quality standards and best practices. Additionally, I actively contribute to various aspects of the WP-Optimize plugin, including development, research, planning, and overall project strategy.
 
 **SovWare, Bangladesh** — Senior Web Engineer <br>
 `Apr’20 - Dec’22 (full time)`
