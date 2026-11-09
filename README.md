@@ -53,5 +53,3 @@ Currently, my primary responsibility is to review merge/pull requests within the
     </tr>
 </table>
 
-### 📊 GitHub Stats
-[![Kowsar's github stats](https://github-readme-stats.vercel.app/api?username=kowsar89&count_private=true&include_all_commits=true&show_icons=true&theme=react&show_owner=true)](https://github.com/kowsar89)
